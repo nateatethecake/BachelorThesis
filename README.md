@@ -7,11 +7,16 @@ https://arxiv.org/abs/2112.03570
 The paper also includes a coding example:
 https://github.com/tensorflow/privacy/tree/master/research/mi_lira_2021
 
+To create the Synthetic Dataset by Shokri
+https://arxiv.org/pdf/1610.05820
+
 The formal use of TabPFN has been introduced in this paper:
 https://arxiv.org/abs/2207.01848
 
 Additionally they have provided coding examples.
 https://github.com/automl/TabPFN
+
+
 
 
 Datasets:
